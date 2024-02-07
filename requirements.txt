@@ -39,10 +39,8 @@ soupsieve==2.5
 trio==0.22.2
 trio-websocket==0.10.3
 tzdata==2023.3
-undetected-chromedriver==3.5.3
 urllib3==1.26.16
 urllib3-secure-extra==0.1.0
-webdriver-manager==4.0.0
 websockets==11.0.3
 Werkzeug==3.0.1
 wsproto==1.2.0
